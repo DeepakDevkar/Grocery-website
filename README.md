@@ -68,7 +68,7 @@ project-root/
 
 ## 🎨 Screenshots
 
-![Cart Functionality](uploads/grocy.jpg)
+![Cart Functionality](grocy.jpg)
 ---
 
 ## 📌 Notes
